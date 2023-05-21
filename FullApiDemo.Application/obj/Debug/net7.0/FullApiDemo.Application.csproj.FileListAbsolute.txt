@@ -1,0 +1,15 @@
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\bin\Debug\net7.0\FullApiDemo.Application.deps.json
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\bin\Debug\net7.0\FullApiDemo.Application.dll
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\bin\Debug\net7.0\FullApiDemo.Application.pdb
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\bin\Debug\net7.0\FullApiDemo.Domain.dll
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\bin\Debug\net7.0\FullApiDemo.Domain.pdb
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\obj\Debug\net7.0\FullApiDemo.Application.csproj.AssemblyReference.cache
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\obj\Debug\net7.0\FullApiDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\obj\Debug\net7.0\FullApiDemo.Application.AssemblyInfoInputs.cache
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\obj\Debug\net7.0\FullApiDemo.Application.AssemblyInfo.cs
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\obj\Debug\net7.0\FullApiDemo.Application.csproj.CoreCompileInputs.cache
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\obj\Debug\net7.0\FullApiDemo.Application.csproj.CopyComplete
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\obj\Debug\net7.0\FullApiDemo.Application.dll
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\obj\Debug\net7.0\refint\FullApiDemo.Application.dll
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\obj\Debug\net7.0\FullApiDemo.Application.pdb
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.Application\obj\Debug\net7.0\ref\FullApiDemo.Application.dll
