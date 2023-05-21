@@ -26,6 +26,7 @@ namespace FullApiDemo.Infrastructure.Persistence
 
 		protected override void OnModelCreating(ModelBuilder builder)
 		{
+			// Fluent Configuration
 			builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 			base.OnModelCreating(builder);
 		}

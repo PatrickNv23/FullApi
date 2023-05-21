@@ -44,6 +44,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.5, )"
@@ -220,6 +224,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "E:\\YoutubeTutoriales\\FullApiDemo\\FullApiDemo.Application\\FullApiDemo.Application.csproj": {
+                "projectPath": "E:\\YoutubeTutoriales\\FullApiDemo\\FullApiDemo.Application\\FullApiDemo.Application.csproj"
+              },
               "E:\\YoutubeTutoriales\\FullApiDemo\\FullApiDemo.Infrastructure\\FullApiDemo.Infrastructure.csproj": {
                 "projectPath": "E:\\YoutubeTutoriales\\FullApiDemo\\FullApiDemo.Infrastructure\\FullApiDemo.Infrastructure.csproj"
               }
@@ -236,6 +243,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.5, )"

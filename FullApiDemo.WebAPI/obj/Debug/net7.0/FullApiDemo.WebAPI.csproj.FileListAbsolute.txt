@@ -80,3 +80,5 @@ E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.WebAPI\bin\Debug\net7.0\Microsoft.E
 E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
 E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.WebAPI\bin\Debug\net7.0\MediatR.dll
+E:\YoutubeTutoriales\FullApiDemo\FullApiDemo.WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll

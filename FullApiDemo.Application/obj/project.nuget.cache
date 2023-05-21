@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "poY4idGlzsZHJefv/mGtU7yeghUi81KNsXLGeCeITDAgaYLBK+WwNH8IRvPfjugfHRqbv8242yVDqHmyIJuDgw==",
+  "dgSpecHash": "fo83k8gG1pvPsNiGtYPLjIIJXIef1dA3+YusDL6/nhjZn6a6jkLXN5VbmXVhNTsKYEcqgbROqWosZSdyFaYpNw==",
   "success": true,
   "projectFilePath": "E:\\YoutubeTutoriales\\FullApiDemo\\FullApiDemo.Application\\FullApiDemo.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\patri\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",

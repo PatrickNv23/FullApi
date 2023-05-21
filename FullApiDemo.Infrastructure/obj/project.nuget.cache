@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "gXY47FgkeRkbUuoYTzqGawt0sXAUymwebp4djj0DFCDrTEOGNom8KEbUww3P9uJh7IzoQ1uGs0Gd0n1DxtK1Vw==",
+  "dgSpecHash": "cjMV7zgcOy6hS4VXqIO9YXtJ8z4vs0XTz8ich5t9SlOywbj0jRS0vkyGWCEoinef3a2KE+cLOwcxb7y8T49xOA==",
   "success": true,
   "projectFilePath": "E:\\YoutubeTutoriales\\FullApiDemo\\FullApiDemo.Infrastructure\\FullApiDemo.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patri\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
