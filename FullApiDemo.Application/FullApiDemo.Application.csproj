@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="UserCQRS\Commands\" />
     <Folder Include="UserCQRS\Mappings\" />
   </ItemGroup>
 
